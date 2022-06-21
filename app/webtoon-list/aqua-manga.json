@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "name": "Aqua Manga",
+  "base_url": "https://aquamanga.com",
+  "list_path": "",
+  "item_path": "/read/",
+  "items": [
+    {
+      "name": "Return of the Flowery Mountain Sect",
+      "slug": "return-of-the-flowery-mountain-sect",
+      "latest_chapter": 1
+    }
+  ]
+}

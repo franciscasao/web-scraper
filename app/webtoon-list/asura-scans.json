@@ -1,0 +1,24 @@
+{
+  "enabled": false,
+  "name": "Asura Scans",
+  "base_url": "https://asurascans.com",
+  "list_path": "/manga/list-mode/",
+  "item_path": "/comics/",
+  "items": [
+    {
+      "name": "King of Runes",
+      "slug": "king-of-runes",
+      "latest_chapter": 13
+    },
+    {
+      "name": "Player Who Can’t Level Up",
+      "slug": "1649969363-player-who-cant-level-up",
+      "latest_chapter": 67
+    },
+    {
+      "name": "Reincarnation of the Suicidal Battle God",
+      "slug": "367-reincarnation-of-the-suicidal-battle-god",
+      "latest_chapter": 47
+    }
+  ]
+}
